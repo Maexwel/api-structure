@@ -1,0 +1,26 @@
+{
+  "name": "api-structure",
+  "version": "1.0.0",
+  "description": "Base node.js REST API Structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maexwel/api-structure.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "NODE",
+    "JAVASCRIPT",
+    "BACKEND"
+  ],
+  "author": "Maexwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maexwel/api-structure/issues"
+  },
+  "homepage": "https://github.com/Maexwel/api-structure#readme"
+}
