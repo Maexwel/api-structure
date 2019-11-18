@@ -1,0 +1,1 @@
+export { default as ENTRYPOINT_ROUTE } from './entryPoint';
